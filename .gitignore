@@ -2,3 +2,7 @@ en-fr.csv
 en-fr-translation-dataset.zip
 train.csv
 *.swp
+artifacts/
+wandb/
+hf_cache/
+processed_cache/
